@@ -1,0 +1,1 @@
+# terraform-hcp-consul-admin-partitions
